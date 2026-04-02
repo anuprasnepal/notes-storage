@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Chapter/Exercise",
+    "subject": "subject",
+    "date": "yyyy-mm-dd(AD)",
+    "url": "https://raw.githubusercontent.com/...",
+    "thumbnail": "optional-image-url"
+  }
+]
