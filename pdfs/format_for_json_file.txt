@@ -3,7 +3,7 @@
     "title": "Chapter/Exercise",
     "subject": "subject",
     "date": "yyyy-mm-dd(AD)",
-    "url": "https://raw.githubusercontent.com/...",
+    "url": "https://raw.githubusercontent.com/gssnotes/notes-storage/refs/heads/main/pdfs/filename.pdf",
     "thumbnail": "optional-image-url"
   }
 ]
