@@ -1,15 +1,17 @@
+
+
 [
   {
     "title": "Exercise 19.1",
-    "subject": "Math",
+    "subject": "mathematics",
+    "chapter": "Chapter 19",
     "date": "2026-04-12",
     "url": "https://raw.githubusercontent.com/anuprasnepal/notes-storage/refs/heads/main/pdfs/maths-april12.pdf"
-  }
-
-
+  },
   {
     "title": "Exercise 19.2",
     "subject": "mathematics",
+    "chapter": "Chapter 19",
     "date": "2026-04-12",
     "url": "https://raw.githubusercontent.com/anuprasnepal/notes-storage/refs/heads/main/pdfs/maths-april12.pdf",
     "thumbnail": "https://static.vecteezy.com/system/resources/thumbnails/060/843/811/small/close-up-of-raindrops-on-leaves-hd-background-luxury-hd-wallpaper-image-trendy-background-illustration-free-photo.jpg"
