@@ -1,19 +1,49 @@
-
-
-[
-  {
-    "title": "Exercise 19.1",
-    "subject": "mathematics",
-    "chapter": "Chapter 19",
-    "date": "2026-04-12",
-    "url": "https://raw.githubusercontent.com/anuprasnepal/notes-storage/refs/heads/main/pdfs/maths-april12.pdf"
-  },
-  {
-    "title": "Exercise 19.2",
-    "subject": "mathematics",
-    "chapter": "Chapter 19",
-    "date": "2026-04-12",
-    "url": "https://raw.githubusercontent.com/anuprasnepal/notes-storage/refs/heads/main/pdfs/maths-april12.pdf",
-    "thumbnail": "https://static.vecteezy.com/system/resources/thumbnails/060/843/811/small/close-up-of-raindrops-on-leaves-hd-background-luxury-hd-wallpaper-image-trendy-background-illustration-free-photo.jpg"
-  }
-]
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Question",
+      "subject": "Mathematics",
+      "class": 11,
+      "url": "https://raw.githubusercontent.com/anuprasnepal/notes-storage/refs/heads/main/pdfs/maths-april12.pdf",
+      "date": "2026-04-03",
+      "thumbnail": "/set.png"
+    },
+    {
+      "id": 2,
+      "title": "Logic and Set",
+      "subject": "Mathematics",
+      "class": 11,
+      "url": "https://1drv.ms/b/c/4A3B8E5AD237FD55/Ed6yi4IexLtOma14A1s0Mp8B9uukLm4lDrdYvkl0Yx4tIA?e=mZEbUB",
+      "date": "2026-04-02",
+      "thumbnail": "/set.png"
+    },
+    {
+      "id": 3,
+      "title": "Real Number System",
+      "subject": "Mathematics",
+      "class": 11,
+      "url": "https://1drv.ms/b/c/4A3B8E5AD237FD55/Ea2Nwp_22_VCsY0lRES6anABUFmIJu_EFz5eUg-UDH66EA?e=mGfDaQ",
+      "date": "2026-04-01",
+      "thumbnail": "/set.png"
+    },
+    {
+      "id": 4,
+      "title": "Function",
+      "subject": "Mathematics",
+      "class": 11,
+      "url": "https://1drv.ms/f/c/4A3B8E5AD237FD55/EroLmpTWxgRJtQmX6_86-vEBcz5a9HO65TpVcpQpqFwyIQ?e=PlwXhk",
+      "date": "2026-03-31",
+      "thumbnail": "/set.png"
+    },
+    {
+      "id": 5,
+      "title": "Curve Sketching",
+      "subject": "Mathematics",
+      "class": 11,
+      "url": "https://1drv.ms/f/c/4A3B8E5AD237FD55/EuxdecQ2iOhBh7ElBDEVgCsBnpm-Nr6XnFWSQkNLfgNJMQ?e=Va4B01",
+      "date": "2026-03-30",
+      "thumbnail": "/set.png"
+    }
+  ]
+}
